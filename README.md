@@ -37,7 +37,7 @@ Additionally, this code is intended to be run on JupyterHub, a web-based platfor
 2. Open a terminal and navigate to the directory where you want to clone the repository.
 3. Clone the repository to your local machine using the following command:
 
-'''git@github.com:KensingtonOscupant/boardex-germanyinc.git'''
+`git@github.com:KensingtonOscupant/boardex-germanyinc.git`
 
 
 4. Launch JupyterLab or Jupyter Notebook from the JupyterHub interface.
