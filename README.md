@@ -1,6 +1,13 @@
 # BoardEx for Germany Inc
 
-This GitHub repository contains Python code that helps in the analysis of board members for companies in the German market. It focuses on using BoardEx data to distinguish between board members with the same name.
+This GitHub repository contains Python code that helps in the analysis of board members for companies in the German market.
+
+## Notebooks
+
+You can find the notebooks for the different tasks here:
+
+1. [One board member name, different IDs](https://nbviewer.org/github/KensingtonOscupant/boardex-germanyinc/blob/main/src/boardex_sample_script.ipynb)
+2. [One ID, different board member names](https://nbviewer.org/github/KensingtonOscupant/boardex-germanyinc/tree/main/src/two_names_one_id.ipynb)
 
 ## Purpose
 
